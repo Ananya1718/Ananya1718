@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ananya!
+# Hi👋 I'm Ananya!
 
  First-Year B.Tech CSE (Cybersecurity Specialization) Student  
  Karunya Institute of Technology and Sciences  
