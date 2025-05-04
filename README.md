@@ -25,7 +25,7 @@
 ##  Let's Connect!
 -  [LinkedIn](www.linkedin.com/in/ananyasankar)  
 -  [GitHub Projects](https://github.com/Ananya1718)  
--  Email: your.email@example.com  
+-  Email:ananyasankarp@gmail.com
 
 ---
 > "Stay curious, keep building, and secure the future!" 
