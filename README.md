@@ -2,7 +2,7 @@
 
  First-Year B.Tech CSE (Cybersecurity Specialization) Student  
  Karunya Institute of Technology and Sciences  
- Cybersecurity Enthusiast | Tech Explorer  
+ Cybersecurity 
 
 ---
 
