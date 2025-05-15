@@ -1,4 +1,4 @@
-# Hi👋 I'm Ananya!
+# Hi!! Tis is Ananya!
 
  First-Year B.Tech CSE (Cybersecurity Specialization) Student  
  Karunya Institute of Technology and Sciences  
@@ -18,7 +18,7 @@
 ##  Tech Stack
 - **Languages:** Python, C Basics
 - **Tools & Platforms:** GitHub, Linux (basics), Visual Studio Code
-- **Special Interests:** Cybersecurity, Ethical Hacking, API Development
+- **Interests:** Cybersecurity, Ethical Hacking, API Development
 
 ---
 
