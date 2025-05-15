@@ -1,4 +1,4 @@
-# Hi!! Tis is Ananya!
+# Hi!! This is Ananya!
 
  First-Year B.Tech CSE (Cybersecurity Specialization) Student  
  Karunya Institute of Technology and Sciences  
