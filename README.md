@@ -7,11 +7,10 @@
 ---
 
 ##  About Me
--  I’m currently working on a **Weather Dashboard (API-based)** project and **Cybersecurity** projects.
--  I’m learning **Python**, **GitHub**, and **APIs** — and diving deeper into **Cybersecurity** concepts.
+-  I’m learning **Python**, **APIs** — and diving deeper into **Cybersecurity** concepts.
 -  I love building projects that solve real-world problems and sharpening my tech skills.
 -  I’m looking to collaborate on **Python**, **Open Source**, and **Security-related** projects.
--  Always learning, always growing!
+-  leveling up!!
 
 ---
 
@@ -28,4 +27,4 @@
 -  Email:ananyasankarp@gmail.com
 
 ---
-> "Stay curious, keep building, and secure the future!" 
+> Down to collab on anything Pythonic or Security-sus 👀
