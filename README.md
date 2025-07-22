@@ -25,9 +25,5 @@
 -  [LinkedIn](www.linkedin.com/in/ananyasankar)  
 -  [GitHub Projects](https://github.com/Ananya1718)  
 -  Email:ananyasankarp@gmail.com
--  
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
-![Repo Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
-
 ---
 > Down to collab on anything Pythonic or Security-sus 👀
